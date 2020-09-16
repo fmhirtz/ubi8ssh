@@ -1,4 +1,4 @@
-FROM ubi8/ubi-init
+FROM ubi8/ubi8:latest
 
 ARG ADMIN_PUBLIC_KEY
 

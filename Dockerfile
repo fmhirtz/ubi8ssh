@@ -1,4 +1,4 @@
-FROM ubi8/ubi8:latest
+FROM registry.access.redhat.com/ubi8/ubi8-init:latest
 
 ARG ADMIN_PUBLIC_KEY
 
